@@ -18,12 +18,18 @@
     font-family: helvetica;
     color: seashell;
     opacity: 0.9;
-    
+
+
     top: 0%;
     bottom: 10px;
-    width: 100%;
+    width: 1200px;
     padding-bottom: 20px;
 
+}
+@media only screen and (max-width: 529px) {
+    .ban {
+        width: 90%;
+    }
 }
 .link {
     text-align: right;
@@ -49,7 +55,7 @@
 .ban2 {
     background-image: url("https://content.codecademy.com/courses/freelance-1/unit-4/img-bedford-bizarre.jpg?_gl=1*ksu10t*_ga*MTYxNjAyMjE2NS4xNjM2ODM3NTIy*_ga_3LRZM6TM9L*MTY2MTM5NDA5OC44OS4xLjE2NjEzOTY4MzcuNTIuMC4w");
     height: 700px;
-    width: 1200px;
+    width: 100%;
     margin-left: 2%;
     border: 1px solid white;
     background-repeat: no-repeat;
