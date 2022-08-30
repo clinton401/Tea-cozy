@@ -1,0 +1,142 @@
+* {
+    background-color: black;
+    font-family: helvetica;
+}
+.ban1 {
+   padding-left: 10px;
+   align-items: center;
+   padding-top: 0px;
+   padding-bottom: 0%;
+
+}
+
+
+.ban {
+    height: 100px;
+    border-bottom: 1px solid white;
+    font-size: 22px;
+    font-family: helvetica;
+    color: seashell;
+    opacity: 0.9;
+    
+    top: 0%;
+    bottom: 10px;
+    width: 100%;
+    padding-bottom: 20px;
+
+}
+.link {
+    text-align: right;
+    align-items: center;
+    justify-content: center;
+    color: seashell;
+}
+.link1, .link2, .link3 {
+    padding-right: 20px;
+    display: inline;
+    text-align: right;
+    padding-bottom: 30px;
+    cursor: pointer;
+
+
+}
+.ban2 h2 {
+    color: white;
+    text-align: center;
+
+}
+
+.ban2 {
+    background-image: url("https://content.codecademy.com/courses/freelance-1/unit-4/img-bedford-bizarre.jpg?_gl=1*ksu10t*_ga*MTYxNjAyMjE2NS4xNjM2ODM3NTIy*_ga_3LRZM6TM9L*MTY2MTM5NDA5OC44OS4xLjE2NjEzOTY4MzcuNTIuMC4w");
+    height: 700px;
+    width: 1200px;
+    margin-left: 2%;
+    border: 1px solid white;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-top: 120px;
+}
+.ban2 h4 {
+    color: white;
+    text-align: center;
+
+}
+.link4 {
+    align-items: center;
+    margin-top: 20%;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+.link5 {
+    color: white;
+    text-align: center;
+
+    width: 1000px;
+    margin-left: 10%;
+    margin-top: 30px;
+}
+.link5 img {
+    height: 200px;
+    width: 300px;
+    display: inline-block;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+figcaption {
+    font-weight: bold;
+}
+.ban3 {
+    background-image: url("https://content.codecademy.com/courses/freelance-1/unit-4/img-locations-background.jpg?_gl=1*1jannmc*_ga*MTYxNjAyMjE2NS4xNjM2ODM3NTIy*_ga_3LRZM6TM9L*MTY2MTUxNzk0MS45MS4xLjE2NjE1MTc5NjUuMzYuMC4w");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: white;
+    border: 1px solid seashell;
+    height: 600px;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+
+
+}
+
+.locations {
+    text-align: center;
+    text-decoration: underline;
+    color: white;
+}
+.link6 {
+    height: 200px;
+    width: 300px;
+
+
+}
+
+
+.link7 {
+    width: 300px;
+    height: 200px;
+
+}
+.link8 {
+    width: 300px;
+    height: 200px;
+    margin-bottom: 5px;
+    line-height: 40px;
+
+}
+.link9 {
+    height: 200px;
+    text-align: center;
+}
+.link10 {
+    text-align: left;
+}
+.link11 {
+    font-weight: bold;
+}
+footer {
+    color: white;
+}
